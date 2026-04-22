@@ -15,7 +15,6 @@ public class ModulWidhea202557201041 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
          // TODO code application logic here
         int data[][] = {{4,6,4,2,8,4,2,10}, {4,6,4,2,8,4,2,10}};
             
